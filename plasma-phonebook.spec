@@ -3,7 +3,7 @@
 
 Name:		plasma-phonebook
 Version:	0.1
-Release:	%{?snapshot:0.%{snapshot}.}1
+Release:	%{?snapshot:0.%{snapshot}.}2
 Summary:	Phone book application for Plasma Mobile
 Source0:	https://invent.kde.org/plasma-mobile/plasma-phonebook/-/archive/v%{version}/plasma-phonebook-v%{version}.tar.bz2
 License:	GPLv3
