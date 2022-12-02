@@ -2,8 +2,8 @@
 #define commit 869a837079fc60c9d976528d6a9ce3dce19790d0
 
 Name:		plasma-phonebook
-Version:	22.09
-Release:	%{?snapshot:0.%{snapshot}.}4
+Version:	22.11
+Release:	%{?snapshot:0.%{snapshot}.}1
 Summary:	Phone book application for Plasma Mobile
 %if 0%{?snapshot}
 Source0:	https://invent.kde.org/plasma-mobile/plasma-phonebook/-/archive/v%{version}/plasma-phonebook-v%{version}.tar.bz2
