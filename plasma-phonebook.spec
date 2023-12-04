@@ -2,7 +2,7 @@
 #define commit 869a837079fc60c9d976528d6a9ce3dce19790d0
 
 Name:		plasma-phonebook
-Version:	22.11
+Version:	23.01.0
 Release:	%{?snapshot:0.%{snapshot}.}1
 Summary:	Phone book application for Plasma Mobile
 %if 0%{?snapshot}
